@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHeGEO.Model", "TheHeGEO.Model\TheHeGEO.Model.csproj", "{149A7BF1-954B-4715-8458-BD4AC0977121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHeGEO.Service", "TheHeGEO.Service\TheHeGEO.Service.csproj", "{15BAAB4B-393C-4E93-B5F4-6208F4989D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHeGEO.Web", "TheHeGEO.Web\TheHeGEO.Web.csproj", "{A31EA83F-A0F9-4F08-9674-A9E93D80D6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149A7BF1-954B-4715-8458-BD4AC0977121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149A7BF1-954B-4715-8458-BD4AC0977121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149A7BF1-954B-4715-8458-BD4AC0977121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149A7BF1-954B-4715-8458-BD4AC0977121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BAAB4B-393C-4E93-B5F4-6208F4989D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BAAB4B-393C-4E93-B5F4-6208F4989D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BAAB4B-393C-4E93-B5F4-6208F4989D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BAAB4B-393C-4E93-B5F4-6208F4989D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31EA83F-A0F9-4F08-9674-A9E93D80D6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31EA83F-A0F9-4F08-9674-A9E93D80D6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31EA83F-A0F9-4F08-9674-A9E93D80D6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31EA83F-A0F9-4F08-9674-A9E93D80D6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
